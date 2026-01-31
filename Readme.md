@@ -1,4 +1,4 @@
-# Computerized Otoscopy Image-based Artificial Intelligence Model utilizing Deep Features Provided by Vision Transformer, Grid Search Optimization and Support Vector Machine for Otitis Media Diagnosis
+#[Computerized Otoscopy Image-based Artificial Intelligence Model utilizing Deep Features Provided by Vision Transformer, Grid Search Optimization and Support Vector Machine for Otitis Media Diagnosis](https://link.springer.com/article/10.1007/s00521-024-10457-y)
 
 ### Dataset Description
 
